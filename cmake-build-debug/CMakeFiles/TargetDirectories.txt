@@ -1,0 +1,3 @@
+C:/Users/rgfai/Documents/Repositories/TicTacToe/TicTacToe/cmake-build-debug/CMakeFiles/TicTacToe.dir
+C:/Users/rgfai/Documents/Repositories/TicTacToe/TicTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rgfai/Documents/Repositories/TicTacToe/TicTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
